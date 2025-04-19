@@ -104,4 +104,5 @@ Let us know if you'd like a full Jenkinsfile example.
 
 Feel free to raise issues or contribute with PRs.
 
----
+---# WMG_Test_Automation
+WedMeGood Automation Scripts
